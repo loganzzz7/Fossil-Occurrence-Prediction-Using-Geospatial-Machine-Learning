@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project investigates whether fossil occurrence within a **(subset of the Morrison Formation in Colorado)[https://www.researchgate.net/figure/Map-showing-the-geographic-distribution-of-the-Morrison-Formation-across-the-Western_fig2_223834682]** can be predicted using geological and topographic features. The Morrison Formation (Late Jurassic) is one of the most fossil-rich sedimentary units in North America, particularly known for abundant dinosaur and vertebrate fossils.
+This project investigates whether fossil occurrence within a **[subset of the Morrison Formation in Colorado](https://www.researchgate.net/figure/Map-showing-the-geographic-distribution-of-the-Morrison-Formation-across-the-Western_fig2_223834682)** can be predicted using geological and topographic features. The Morrison Formation (Late Jurassic) is one of the most fossil-rich sedimentary units in North America, particularly known for abundant dinosaur and vertebrate fossils.
 
 Rather than modeling across the entire Western U.S., this project focuses on a **geographically constrained, fossil-rich region in central and western Colorado**, allowing for a controlled and interpretable machine learning setup.
 
