@@ -261,7 +261,6 @@ Interpretation:
 - Feature ablation
 - Improve visualizations
 - Write report/paper
-- Optional: add NDVI or one extra feature
 
 ---
 
