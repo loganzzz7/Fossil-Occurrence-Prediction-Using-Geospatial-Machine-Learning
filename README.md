@@ -161,7 +161,7 @@ Total: **~6–10 features**
 
 - If there is an inbalance of positive and "negative" cells in the data gathered, tighten dataset to be of even counts of positives and "negatives".
 
-This prevents trivial solutions from class imbalance.
+This prevents trivial solutions from class imbalance`.
 
 ### Important
 
